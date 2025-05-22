@@ -1,3 +1,5 @@
+// ler 5 valores e mostrar a posicao onde se encontram o maior e o menor valor 
+
 #include <stdio.h>
 int main () {
     float valor[5], maior, menor;
